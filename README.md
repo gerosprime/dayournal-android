@@ -16,6 +16,8 @@ A collection of journals in application. You can create journals as long as you 
 - Settings
 
 
-## Architecture
+## Some things to know
 
-- MVVM
+- Language used: Java
+- Architecture: MVVM
+
